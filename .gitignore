@@ -1,0 +1,7 @@
+# production
+out/
+lib/
+
+
+# itellij
+.idea/
